@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.hate0016',
       version='0.0.1',
       description=('A docassemble extension.'),
-      long_description='# docassemble.hate0016\n\nA docassemble extension.\n\n## Author\n\nAyat Hatem, hate0016@flinders.edu.au\n\n',
+      long_description='# docassemble.hate0016\r\n\r\nA docassemble extension.\r\n\r\n## Author\r\n\r\nAyat Hatem, hate0016@flinders.edu.au\r\n\r\n',
       long_description_content_type='text/markdown',
       author='Ayat Hatem',
       author_email='hate0016@flinders.edu.au',
